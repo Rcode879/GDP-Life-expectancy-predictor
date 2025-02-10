@@ -22,7 +22,7 @@ This project analyzes the relationship between **GDP per Capita** and **Life Exp
 ### **1️⃣ Clone the Repository**
 
 ```sh
-git clone 
+git clone https://github.com/Rcode879/GDP-Life-expectancy-predictor.git
 cd GDP-Life-expectancy-predictor
 ```
 
@@ -80,10 +80,6 @@ Enter the GDP per Capita: 65020.35
 The estimated life expectancy of a country with 65020.35 GDP per capita is 77.7771393826115 years
 ```
 
+## NOTE:
 
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
-
-
+   - There is also a notebook which provides a visual explaination of the code
