@@ -13,7 +13,14 @@ This project analyzes the relationship between **GDP per Capita** and **Life Exp
 
 ## 🚀 Features
 
-✅ Reads data from a CSV file ✅ Cleans and preprocesses the dataset ✅ Applies **log transformation** to GDP for better model fit ✅ Fits a **7th-degree polynomial regression model** ✅ Plots **actual vs predicted values** with a logarithmic scale ✅ Allows **user input to predict life expectancy** ✅ Displays **R² score** to assess model accuracy ✅ Interactive **menu for user interaction**
+✅ Reads data from a CSV file 
+✅ Cleans and preprocesses the dataset 
+✅ Applies **log transformation** to GDP for better model fit 
+✅ Fits a **7th-degree polynomial regression model** 
+✅ Plots **actual vs predicted values** with a logarithmic scale 
+✅ Allows **user input to predict life expectancy** 
+✅ Displays **R² score** to assess model accuracy 
+✅ Interactive **menu for user interaction**
 
 ---
 
